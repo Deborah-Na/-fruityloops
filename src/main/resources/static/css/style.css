@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.table{
+	margin-top: 50x;
+	border: 15px solid pink;
+	padding: 20px;
+}
+
+
+
+h1{
+	color: orange;
+	margin-left: 100px;
+	margin-top: 20px;
+}
